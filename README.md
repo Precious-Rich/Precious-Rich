@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Precious-Rich
 - 👀 I’m interested in Data 
-- 🌱 I’m currently learning Data Analytics
-- 💞️ I’m looking to collaborate on jobs that are in lin with my current career path
+- 🌱 I’m currently Data Analytics Intern (And still learning)
+- 💞️ Open to collabprations and learning opportunities
 - 📫 How to reach me ezeikeprecious7@gmail.com
 
 <!---
